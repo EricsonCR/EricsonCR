@@ -27,9 +27,7 @@
   </a>
 </p>
 
-<h2 >Tecnologías Sistemas Embebidos👨🏻‍💻</h2
+<h2 >Tecnologías Diseño Circuitos👨🏻‍💻</h2
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&perline=12" />
-  </a>
+  <a href="https://www.electronics-lab.com/wp-content/uploads/2017/01/eagle-badge-2048px.jpg"></a>
 </p>
