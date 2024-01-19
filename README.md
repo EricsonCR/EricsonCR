@@ -1,4 +1,4 @@
-Hola soy Ericson Cruz, Desarrollador Software.
+<h1 align="center">Hola 👋  soy Ericson Cruz / Desarrollador Software y Hardware ✨ </h1>
 <hr>
 <p align="left">
   <a href="https://skillicons.dev">
