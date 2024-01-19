@@ -7,9 +7,9 @@
 </ul>
 
 - 👨🏿‍💻 Desarrollador Softwware:
-  Aplicaciones Cliente-Servidor en Java, .Net
-  Aplicaciones Web HTML, CSS, JavaScript
-  Administrador base Datos Sql Server, MySql
+  * Aplicaciones Cliente-Servidor en Java, .Net
+  * Aplicaciones Web HTML, CSS, JavaScript
+  * Administrador base Datos Sql Server, MySql
 - 📚 Desarrollo Hardware:
   Programacion Microcontroladores ATmega, PIC, STM32
   Placas Desarrollo ESP32, BluePill, Raspberry Pi, Arduino
