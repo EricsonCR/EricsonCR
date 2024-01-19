@@ -26,4 +26,4 @@
 </p>
 
 <h2 >Tecnologías Diseño Circuitos PCB👨🏻‍💻</h2>
-  <img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20logo%20junto.png" alt="" height="25%"/>
+  <img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20logo%20junto.png" alt="" height="20%"/>
