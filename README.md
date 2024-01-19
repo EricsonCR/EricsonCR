@@ -7,6 +7,7 @@
 - 📚 Desarrollo Hardware Electronico
 - 📢 Mis videos los pueden encontrar en [Youtube](https://www.youtube.com/@makerelectronico8676/videos)
 - 📫 Puedes comunicarte conmigo en [Twitter](ericson4634@gmail.com) o [Linkedin](linkedin.com/in/ericson-cruz-70b875262)
+</p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
