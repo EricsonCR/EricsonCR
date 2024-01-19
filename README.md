@@ -27,7 +27,8 @@
   </a>
 </p>
 
-<h2 >Tecnologías Diseño Circuitos👨🏻‍💻</h2
+<h2 >Tecnologías Diseño Circuitos PCB👨🏻‍💻</h2
 <p align="left">
   <img src="https://www.electronics-lab.com/wp-content/uploads/2017/01/eagle-badge-2048px.jpg" alt="" width="25%" height="25%">
+  <img src="https://embarcados.com.br/wp-content/uploads/2023/02/kicad-7-destaque.png.webp" alt="" width="25%" height="25%">
 </p>
