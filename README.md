@@ -3,17 +3,10 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-🎓 Desarrollador Software y Hardware
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-</p>
-<br>
+- 👨🏿‍💻 Desarrollador web Fullstack
+- 📚 Desarrollo Hardware Electronico
+- 📢 Mis videos los pueden encontrar en [Youtube](https://www.youtube.com/@makerelectronico8676/videos)
+- 📫 Puedes comunicarte conmigo en [Twitter](ericson4634@gmail.com) o [Linkedin](linkedin.com/in/ericson-cruz-70b875262)
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
