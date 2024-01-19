@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋  soy Ericson Cruz</h1>
+
 <h2>Sobre mi 😃</h2>
 
 - 👨🏿‍💻 Desarrollador Softwware:
@@ -19,7 +20,14 @@
   </a>
 </p>
 
-<h2 >Tecnologías Hardware👨🏻‍💻</h2
+<h2 >Tecnologías Sistemas Embebidos👨🏻‍💻</h2
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&perline=12" />
+  </a>
+</p>
+
+<h2 >Tecnologías Sistemas Embebidos👨🏻‍💻</h2
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&perline=12" />
