@@ -23,6 +23,6 @@
 <h2 >Tecnologías Hardware👨🏻‍💻</h2
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlabr&perline=12" />
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&perline=12" />
   </a>
 </p>
