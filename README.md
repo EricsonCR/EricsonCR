@@ -18,12 +18,5 @@
   </a>
 </p>
 
-<h2 >Tecnologías Sistemas Embebidos👨🏻‍💻</h2
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab&perline=12" />
-  </a>
-</p>
-
-<h2 >Tecnologías Diseño Circuitos PCB👨🏻‍💻</h2>
-  <img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20logo%20junto.png" alt="" height="20%"/>
+<h2 >Tecnologías Microcontroladores y Diseño PCB👨🏻‍💻</h2>
+<img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20microcontroladores%20junto.png" alt="" height="20%"/>
