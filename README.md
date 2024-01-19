@@ -11,7 +11,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,sql,net&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,net&perline=12" />
   </a>
 </p>
 <br>
