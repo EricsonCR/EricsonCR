@@ -29,5 +29,5 @@
 
 <h2 >Tecnologías Diseño Circuitos👨🏻‍💻</h2
 <p align="left">
-  <a href="https://www.electronics-lab.com/wp-content/uploads/2017/01/eagle-badge-2048px.jpg"></a>
+  <img src="" alt="">
 </p>
