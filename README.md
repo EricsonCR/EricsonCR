@@ -2,6 +2,10 @@
 
 <h2>Sobre mi 😃</h2>
 
+<ul>
+  <li>Desarrollador Software</li>
+</ul>
+
 - 👨🏿‍💻 Desarrollador Softwware:
   Aplicaciones Cliente-Servidor en Java, .Net
   Aplicaciones Web HTML, CSS, JavaScript
