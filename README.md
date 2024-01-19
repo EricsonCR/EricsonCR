@@ -2,12 +2,10 @@
 
 <h2>Sobre mi 😃</h2>
 
-<p align="left">
 - 👨🏿‍💻 Desarrollador web Fullstack
 - 📚 Desarrollo Hardware Electronico
-- 📢 Mis videos los pueden encontrar en [Youtube](https://www.youtube.com/@makerelectronico8676/videos)
+- 📢 Mis videos los pueden encontrar en <a href="https://www.youtube.com/@ericsoncruz9655" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 - 📫 Puedes comunicarte conmigo en [Twitter](ericson4634@gmail.com) o [Linkedin](linkedin.com/in/ericson-cruz-70b875262)
-</p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
