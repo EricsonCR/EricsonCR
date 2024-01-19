@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋  soy Ericson Cruz</h1>
 
 <h2>Sobre mi 😃</h2>
+
 - 👨🏿‍💻 Desarrollador Softwware:
   * Aplicaciones Cliente-Servidor en Java, .Net
   * Aplicaciones Web HTML, CSS, JavaScript
