@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋  soy Ericson Cruz</h1>
-<h1 align="center"> Desarrollador Software y Hardware ✨ </h1>
 
 <h2>Sobre mi 😃</h2>
-<!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Desarrollador Software y Hardware
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
@@ -14,8 +12,7 @@
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
+</p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
