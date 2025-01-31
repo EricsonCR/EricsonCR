@@ -17,7 +17,7 @@
 <h2 >Tecnologías Software👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,net,react,angular,bootstrap,java,cs,mysql,postgres,mongodb,docker&perline=12" />
+    <img src="https://skillicons.dev/icons?i=spring,net,react,angular,html,bootstrap,java,cs,mysql,postgres,mongodb,docker&perline=12" />
   </a>
 </p>
 
