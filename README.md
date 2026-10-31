@@ -9,26 +9,21 @@
 <a href = "mailto:ericson4634@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.linkedin.com/in/ericson-cruz-70b875262/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 </p>
-<h2 >Backend👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,net,java,cs,&perline=12" />
-  </a>
-</p>
 
-<h2 >Frontend👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,js,&perline=12" />
-  </a>
-</p>
+<h2>Backend</h2>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring&perline=12" />
 
-<h2 >Base Datos y DevOps👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker&perline=12" />
-  </a>
-</p>
+<h2>Frontend</h2>
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap&perline=12" />
+
+<h2>Bases de datos</h2>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=12" />
+
+<h2>Cloud y herramientas</h2>
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,visualstudio,vscode,py&perline=12" />
+
+<h2>Sistemas embebidos</h2>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&perline=12" />
 
 <h2 >Firmware, IoT, PCB👨🏻‍💻</h2>
 <img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20microcontroladores%20junto.png" alt="" height="20%"/>
