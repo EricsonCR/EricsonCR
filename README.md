@@ -2,7 +2,9 @@
 
 <p align="justify">Desarrollador <b>backend especializado en .NET</b>, orientado al diseño de sistemas mantenibles y escalables con Clean Architecture. Actualmente desarrollo <a href="https://github.com/EricsonCR/pasajeya">PasajeYa</a>, una plataforma de venta de pasajes de bus con <b>ASP.NET Core, Entity Framework Core, SQL Server</b> y Angular, gestionada con Scrum y GitHub, aplicando desarrollo asistido por IA con Claude Code. Previamente desarrollé con <b>Spring Boot</b> y Angular una tienda online y un sistema de gestión escolar con autenticación JWT, reportes PDF y notificaciones SMTP. Experiencia con PostgreSQL y MySQL, y despliegues en Azure y otras plataformas cloud.</p>
 
-<p align="justify">Cuento con <b>más de 10 años de experiencia en sistemas embebidos</b> y actualmente me desempeño como consultor independiente. Programación de bajo nivel en <b>C/C++</b> para microcontroladores PIC, AVR y STM32, y desarrollo sobre plataformas Arduino, ESP32, STM32 y Raspberry Pi. Diseño y fabricación de placas PCB y desarrollo de tableros de control para ascensores, máquinas de juego y domótica, desde el levantamiento de requerimientos hasta la puesta en marcha. Mi objetivo es integrar ambas disciplinas en soluciones <b>IoT</b>.</p>
+<p align="justify">Cuento con <b>más de 10 años de experiencia en sistemas embebidos</b> y actualmente me desempeño como consultor independiente. Programación de bajo nivel en <b>C/C++</b> para microcontroladores PIC, AVR y STM32, y desarrollo sobre plataformas Arduino, ESP32, STM32 y Raspberry Pi. Diseño y fabricación de placas PCB y desarrollo de tableros de control para ascensores, máquinas de juego y domótica, desde el levantamiento de requerimientos hasta la puesta en marcha.</p>
+
+<p align="justify">Mi objetivo es llevar el <b>desarrollo backend con .NET</b> al ámbito IoT, construyendo soluciones basadas en APIs y servicios que reciban, procesen y expongan en tiempo real los datos de dispositivos físicos. Mi experiencia en sistemas embebidos me permite comprender ambos extremos de la comunicación: el dispositivo que genera los datos y el backend que los gestiona.</p>
 
 <p align="center">
  <a href="https://www.youtube.com/@ericsoncruz9655" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@YouTube"  /></a>
@@ -22,8 +24,5 @@
 <h2>Cloud y herramientas</h2>
 <img src="https://skillicons.dev/icons?i=azure,docker,git,github,visualstudio,vscode,py&perline=12" />
 
-<h2>Sistemas embebidos</h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&perline=12" />
-
-<h2 >Firmware, IoT, PCB👨🏻‍💻</h2>
+<h2 >Sistemas embebidos, IoT, PCB</h2>
 <img src="https://github.com/EricsonCR/imagenes/blob/main/kicad%20eagle%20proteus%20microcontroladores%20junto.png" alt="" height="20%"/>
